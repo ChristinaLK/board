@@ -105,12 +105,22 @@ questions described in the checkout procedure.
 
 - encouraging attendees to create issues or pull requests to correct problems.
 
+- asking if anyone is interested in participating in future discussion sessions.  
+
+Note that the host doesn't need to answer every questions raised in the session!  Ask 
+the attendees to answer questions raised by other participants.  Cross-group discussion 
+is very much encouraged!  
 
 ## After the meeting
 
 The host of the meeting should report back to the lead instructor trainer and 
 describe whether newly trained instructors participating as a part of the checkout procedure 
 were engaged and could answer target questions described in the checkout procedure.
+
+We are now more formally organizing the notes and data gathered in the session.  Once 
+the discussion is over, paste the notes into 
+[this google doc](https://docs.google.com/document/d/1zQTkNCev9AzAlA464jUa8ifFaTx_8mb1NX6xvUbaGvM/edit) 
+and label with the date and which session you led.
 
 The host of the meeting should 1) archive the etherpad and 2) clean 
 the etherpad for the next user. To archive, click the star in the top left 

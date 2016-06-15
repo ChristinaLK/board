@@ -15,16 +15,20 @@ Discussion sessions are organized and conducted through this etherpad:
 
 ### During
 - [ ] Sign on and lead the meeting, following the agenda at the bottom of the 
-etherpad.  
+etherpad.  (Questions with a star are temporary, for data-gathering purposes.)  
 - [ ] If someone is attending as part of their training checkout, prompt them to 
 ask questions.  
 - [ ] Take notes, if possible, about meeting discussion
+- [ ] At the end of the meeting, ask if anyone is interested in joining future 
+discussion sessions, either as a contributor or co-host.  
 
 ### After
 - [ ] Archive the etherpad by clicking on the star in the top right corner.  
 - [ ] Copy your notes to [this google doc](https://docs.google.com/document/d/1zQTkNCev9AzAlA464jUa8ifFaTx_8mb1NX6xvUbaGvM/edit) and label with the date and which session you led.  
 - [ ] Email the instructor training coordinator (currently Greg Wilson) with the names 
 of those participating as part of their training checkout.  
+- [ ] Email the discussion session organizer (currently Christina Koch) with the names 
+of anyone interested in participating in/leading future sessions.  
 - [ ] Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - [ ] Optional: write a blog post about interesting points that came up in discussion; see 
 [this template](template-blog-about-debriefing-session.md) as a starting point.
